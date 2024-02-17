@@ -1,4 +1,3 @@
-DifferentialPrivacy -
 Differential privacy (DP) is a way to preserve the privacy
 of individuals in a dataset while preserving the overall
 usefulness of such a dataset. Ideally, someone shouldn’t be
